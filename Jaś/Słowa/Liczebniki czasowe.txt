@@ -1,0 +1,46 @@
+LICZEBNIKI CZASOWE
+
+pierwszego
+drugiego
+trzeciego
+czwartego
+piątego
+szóstego
+siódmego
+ósmego
+dziewiątego
+dziesiątego
+jedenastego
+dwunastego
+trzynastego
+czternastego
+piętnastego
+szesnastego
+siedemnastego
+osiemnastego
+dziewiętnastego
+dwudziestego
+dwudziestego pierwszego
+dwudziestego drugiego
+trzydziestego
+czterdziestego
+pięćdziesiątego
+sześćdziesiątego
+siedemdziesiątego
+osiemdziesiątego
+dziewięćdziesiątego
+setnego
+sto dziesiątego
+sto dwudziestego
+dwusetnego
+trzysetnego
+tysiącznego
+tysiąc piątego
+tysiąc trzysta piątego
+dwutysięcznego
+milionowego
+dwumilionowego
+trzymilionowego
+miliardowego
+bilionowego
+biliardowego
