@@ -8,10 +8,11 @@ import natsort
 TEMPLATE_FILENAME = 'readme-template.md'
 OUT_FILENAME = 'readme.md'
 BASE_DIR = 'Jaś/Słowa'
+EXTENSION = '.txt'
 
 
 def generate_link(name: str) -> str:
-    return f'[{name}](</{name}>)'
+    return f'[{name}](</{name}{EXTENSION}>)'
 
 
 def generate_line(link: str) -> str:
@@ -28,6 +29,7 @@ def sort_names(names: list[str]) -> list[str]:
 
 def generate_links() -> str:
     names = scan_names()
+    names = [name.rstrip(EXTENSION) for name in names]
     names = sort_names(names)
     lines = [
         generate_line(generate_link(name))
