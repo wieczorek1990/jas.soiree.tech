@@ -19,7 +19,7 @@ def generate_line(link: str) -> str:
 def scan_names() -> list[tuple[str, str]]:
     names = glob.glob(f'{BASE_DIR}/**/*.txt', recursive=True)
     return [
-        (name, f'/{name}')
+        (name, f'</{name}>')
         for name in names
     ]
 
