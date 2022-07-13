@@ -10,27 +10,28 @@ OUT_FILENAME = 'readme.md'
 BASE_DIR = 'Jaś/Słowa/'
 
 
-def generate_link(text: str, link: str) -> str:
-    return f'[{text}]({link})'
+def generate_link(name: str) -> str:
+    return f'[{name}](</{name}>)'
 
 
 def generate_line(link: str) -> str:
     return f'* {link}\n'
 
 
-def scan_names() -> list[tuple[str, str]]:
-    names = glob.glob(f'{BASE_DIR}/**/*.txt', recursive=True)
-    names = natsort.natsorted(names)
-    return [
-        (name, f'</{name}>')
-        for name in names
-    ]
+def scan_names() -> list[str]:
+    return glob.glob(f'{BASE_DIR}/**/*.txt', recursive=True)
+
+
+def sort_names(names: list[str]) -> list[str]:
+    return natsort.natsorted(names)
+
 
 def generate_links() -> str:
-    links = scan_names()
+    names = scan_names()
+    names = sort_names(names)
     lines = [
-        generate_line(generate_link(*link))
-        for link in links
+        generate_line(generate_link(name))
+        for name in names
     ]
     return '\n'.join(lines)
 
