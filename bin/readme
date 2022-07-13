@@ -7,7 +7,7 @@ import natsort
 
 TEMPLATE_FILENAME = 'readme-template.md'
 OUT_FILENAME = 'readme.md'
-BASE_DIR = 'Jaś/Słowa/'
+BASE_DIR = 'Jaś/Słowa'
 
 
 def generate_link(name: str) -> str:
