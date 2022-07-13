@@ -12,7 +12,8 @@ EXTENSION = '.txt'
 
 
 def generate_link(name: str) -> str:
-    return f'[{name}](</{name}{EXTENSION}>)'
+    human_readable_name = name.rstrip(EXTENSION)
+    return f'[{human_readable_name}](</{name}>)'
 
 
 def generate_line(link: str) -> str:
@@ -20,16 +21,15 @@ def generate_line(link: str) -> str:
 
 
 def scan_names() -> list[str]:
-    return glob.glob(f'{BASE_DIR}/**/*.txt', recursive=True)
+    return glob.glob(f'{BASE_DIR}/**/*{EXTENSION}', recursive=True)
 
 
 def sort_names(names: list[str]) -> list[str]:
-    return natsort.natsorted(names)
+    return natsort.natsorted(names, alg=natsort.PATH)
 
 
 def generate_links() -> str:
     names = scan_names()
-    names = [name.rstrip(EXTENSION) for name in names]
     names = sort_names(names)
     lines = [
         generate_line(generate_link(name))
