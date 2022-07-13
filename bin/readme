@@ -2,6 +2,8 @@
 
 import glob
 
+import natsort
+
 
 TEMPLATE_FILENAME = 'readme-template.md'
 OUT_FILENAME = 'readme.md'
@@ -18,7 +20,7 @@ def generate_line(link: str) -> str:
 
 def scan_names() -> list[tuple[str, str]]:
     names = glob.glob(f'{BASE_DIR}/**/*.txt', recursive=True)
-    names = sorted(names)
+    names = natsort.natsorted(names)
     return [
         (name, f'</{name}>')
         for name in names
