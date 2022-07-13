@@ -7,12 +7,12 @@ import natsort
 
 TEMPLATE_FILENAME = 'readme-template.md'
 OUT_FILENAME = 'readme.md'
-BASE_DIR = 'Jaś/Słowa'
+BASE_DIR = 'Jaś/Słowa/'
 EXTENSION = '.txt'
 
 
 def generate_link(name: str) -> str:
-    human_readable_name = name.rstrip(EXTENSION)
+    human_readable_name = name.rstrip(EXTENSION).lstrip(BASE_DIR)
     return f'[{human_readable_name}](</{name}>)'
 
 
@@ -21,7 +21,7 @@ def generate_line(link: str) -> str:
 
 
 def scan_names() -> list[str]:
-    return glob.glob(f'{BASE_DIR}/**/*{EXTENSION}', recursive=True)
+    return glob.glob(f'{BASE_DIR}**/*{EXTENSION}', recursive=True)
 
 
 def sort_names(names: list[str]) -> list[str]:
