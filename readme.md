@@ -9,6 +9,10 @@ Basic Polish words list.
 
 * [Artykuły 2](</Jaś/Słowa/Artykuły 2.txt>)
 
+* [Cambridge/Kolory](</Jaś/Słowa/Cambridge/Kolory.txt>)
+
+* [Cambridge/Komunikacja i technologia](</Jaś/Słowa/Cambridge/Komunikacja i technologia.txt>)
+
 * [Cambridge/Ubrania i akcesoria](</Jaś/Słowa/Cambridge/Ubrania i akcesoria.txt>)
 
 * [Filozofia](</Jaś/Słowa/Filozofia.txt>)
