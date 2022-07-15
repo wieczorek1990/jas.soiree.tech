@@ -10,14 +10,14 @@ kalkulator
 zadzwonić
 oddzwonić
 odtwarzacz płyt kompaktowych (CD)
-chat
+czat
 pokój na czacie
 kliknąć
 komputer
 połączyć
 połączenie
 usunąć
-wykręcić number
+wykręcić numer
 cyfrowy
 aparat cyfrowy
 dysk
