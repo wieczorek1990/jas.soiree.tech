@@ -51,7 +51,6 @@ biblioteka
 ocena
 matematyka
 muzyka
-biologia
 notatka
 notes
 tablica ogłoszeń
@@ -73,7 +72,6 @@ szkoła średnia
 student
 studia
 studiować
-uczyć
 nauczyciel
 technologia
 termin
