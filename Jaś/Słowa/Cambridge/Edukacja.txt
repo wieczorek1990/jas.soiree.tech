@@ -1,7 +1,7 @@
 EDUKACJA
 
 nieobecny
-zaawanasowany
+zaawansowany
 arytmetyka
 sztuka
 początkujący
@@ -10,7 +10,7 @@ biologia
 tablica
 tabliczka
 książka
-póka na książki
+półka na książki
 przerwa
 skończyć naukę
 certyfikat
@@ -37,7 +37,7 @@ pismo odręczne
 zadanie domowe
 informacja
 instrukcje
-średnio zaawanasowany
+średnio zaawansowany
 instruktor
 informatyka
 wiedzieć
