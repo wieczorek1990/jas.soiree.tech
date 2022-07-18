@@ -15,6 +15,10 @@ Basic Polish words list.
 
 * [Cambridge/Komunikacja i technologia](</Jaś/Słowa/Cambridge/Komunikacja i technologia.txt>)
 
+* [Cambridge/Rozrywka i media](</Jaś/Słowa/Cambridge/Rozrywka i media.txt>)
+
+* [Cambridge/Środowisko](</Jaś/Słowa/Cambridge/Środowisko.txt>)
+
 * [Cambridge/Ubrania i akcesoria](</Jaś/Słowa/Cambridge/Ubrania i akcesoria.txt>)
 
 * [Filozofia](</Jaś/Słowa/Filozofia.txt>)
