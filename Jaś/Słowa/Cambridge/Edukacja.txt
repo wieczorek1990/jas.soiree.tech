@@ -24,7 +24,7 @@ kompozycja
 kurs
 program nauczania
 stopień wykształcenia
-biruko
+biurko
 słownik
 dyplom
 dramat
