@@ -11,6 +11,8 @@ Basic Polish words list.
 
 * [Cambridge/Edukacja](</Jaś/Słowa/Cambridge/Edukacja.txt>)
 
+* [Cambridge/Jedzenie i picie](</Jaś/Słowa/Cambridge/Jedzenie i picie.txt>)
+
 * [Cambridge/Kolory](</Jaś/Słowa/Cambridge/Kolory.txt>)
 
 * [Cambridge/Komunikacja i technologia](</Jaś/Słowa/Cambridge/Komunikacja i technologia.txt>)
