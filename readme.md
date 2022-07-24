@@ -11,7 +11,11 @@ Basic Polish words list.
 
 * [Cambridge/Edukacja](</Jaś/Słowa/Cambridge/Edukacja.txt>)
 
+* [Cambridge/Hobby i odpoczynek](</Jaś/Słowa/Cambridge/Hobby i odpoczynek.txt>)
+
 * [Cambridge/Jedzenie i picie](</Jaś/Słowa/Cambridge/Jedzenie i picie.txt>)
+
+* [Cambridge/Jedzenie, lekarstwa i ćwiczenia](</Jaś/Słowa/Cambridge/Jedzenie, lekarstwa i ćwiczenia.txt>)
 
 * [Cambridge/Kolory](</Jaś/Słowa/Cambridge/Kolory.txt>)
 
