@@ -17,9 +17,13 @@ Basic Polish words list.
 
 * [Cambridge/Jedzenie, lekarstwa i ćwiczenia](</Jaś/Słowa/Cambridge/Jedzenie, lekarstwa i ćwiczenia.txt>)
 
+* [Cambridge/Język](</Jaś/Słowa/Cambridge/Język.txt>)
+
 * [Cambridge/Kolory](</Jaś/Słowa/Cambridge/Kolory.txt>)
 
 * [Cambridge/Komunikacja i technologia](</Jaś/Słowa/Cambridge/Komunikacja i technologia.txt>)
+
+* [Cambridge/Mieszkanie i dom](</Jaś/Słowa/Cambridge/Mieszkanie i dom.txt>)
 
 * [Cambridge/Rozrywka i media](</Jaś/Słowa/Cambridge/Rozrywka i media.txt>)
 
