@@ -9,6 +9,8 @@ Basic Polish words list.
 
 * [Artykuły 2](</Jaś/Słowa/Artykuły 2.txt>)
 
+* [Cambridge/Budynki](</Jaś/Słowa/Cambridge/Budynki.txt>)
+
 * [Cambridge/Edukacja](</Jaś/Słowa/Cambridge/Edukacja.txt>)
 
 * [Cambridge/Hobby i odpoczynek](</Jaś/Słowa/Cambridge/Hobby i odpoczynek.txt>)
@@ -30,6 +32,8 @@ Basic Polish words list.
 * [Cambridge/Środowisko](</Jaś/Słowa/Cambridge/Środowisko.txt>)
 
 * [Cambridge/Ubrania i akcesoria](</Jaś/Słowa/Cambridge/Ubrania i akcesoria.txt>)
+
+* [Cambridge/Uczucia, opinie i doświadczenia](</Jaś/Słowa/Cambridge/Uczucia, opinie i doświadczenia.txt>)
 
 * [Filozofia](</Jaś/Słowa/Filozofia.txt>)
 

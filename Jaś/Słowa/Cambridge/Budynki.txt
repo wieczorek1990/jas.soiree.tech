@@ -1,0 +1,48 @@
+BUDYNKI
+
+apartamentowiec
+bank
+księgarnia
+budynek
+kawiaria
+kafeteria
+zamek
+kino
+klinika
+klub
+uczelnia wyższa
+chata
+dom towarowy
+dyskoteka
+winda
+wejście
+wyjście
+fabryka
+blok
+galeria
+garaż
+warzywniak
+pensjonat
+szpital
+hotel
+dom
+biblioteka
+centrum handlowe
+muzeum
+biuro
+pałac
+stacja policji
+poczta
+więzienie
+stacja kolejowa
+ruiny
+szkoła
+sklep
+centrum sportowe
+stadion
+market
+basen
+teatr
+centrum informacji turystycznej
+wieża
+uniwersytet
