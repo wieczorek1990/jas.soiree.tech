@@ -25,15 +25,25 @@ Basic Polish words list.
 
 * [Cambridge/Komunikacja i technologia](</Jaś/Słowa/Cambridge/Komunikacja i technologia.txt>)
 
+* [Cambridge/Miasteczko i miasto](</Jaś/Słowa/Cambridge/Miasteczko i miasto.txt>)
+
 * [Cambridge/Mieszkanie i dom](</Jaś/Słowa/Cambridge/Mieszkanie i dom.txt>)
 
 * [Cambridge/Rozrywka i media](</Jaś/Słowa/Cambridge/Rozrywka i media.txt>)
+
+* [Cambridge/Spor](</Jaś/Słowa/Cambridge/Sport.txt>)
 
 * [Cambridge/Środowisko](</Jaś/Słowa/Cambridge/Środowisko.txt>)
 
 * [Cambridge/Ubrania i akcesoria](</Jaś/Słowa/Cambridge/Ubrania i akcesoria.txt>)
 
 * [Cambridge/Uczucia, opinie i doświadczenia](</Jaś/Słowa/Cambridge/Uczucia, opinie i doświadczenia.txt>)
+
+* [Cambridge/Usługi](</Jaś/Słowa/Cambridge/Usługi.txt>)
+
+* [Cambridge/Wieś](</Jaś/Słowa/Cambridge/Wieś.txt>)
+
+* [Cambridge/Zakupy](</Jaś/Słowa/Cambridge/Zakupy.txt>)
 
 * [Filozofia](</Jaś/Słowa/Filozofia.txt>)
 
