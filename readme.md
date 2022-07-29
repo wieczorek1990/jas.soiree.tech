@@ -11,6 +11,8 @@ Basic Polish words list.
 
 * [Cambridge/Budynki](</Jaś/Słowa/Cambridge/Budynki.txt>)
 
+* [Cambridge/Czas](</Jaś/Słowa/Cambridge/Czas.txt>)
+
 * [Cambridge/Edukacja](</Jaś/Słowa/Cambridge/Edukacja.txt>)
 
 * [Cambridge/Hobby i odpoczynek](</Jaś/Słowa/Cambridge/Hobby i odpoczynek.txt>)
@@ -31,9 +33,11 @@ Basic Polish words list.
 
 * [Cambridge/Rozrywka i media](</Jaś/Słowa/Cambridge/Rozrywka i media.txt>)
 
-* [Cambridge/Spor](</Jaś/Słowa/Cambridge/Sport.txt>)
+* [Cambridge/Sport](</Jaś/Słowa/Cambridge/Sport.txt>)
 
 * [Cambridge/Środowisko](</Jaś/Słowa/Cambridge/Środowisko.txt>)
+
+* [Cambridge/Środowisko naturalne](</Jaś/Słowa/Cambridge/Środowisko naturalne.txt>)
 
 * [Cambridge/Ubrania i akcesoria](</Jaś/Słowa/Cambridge/Ubrania i akcesoria.txt>)
 
@@ -69,7 +73,7 @@ Basic Polish words list.
 
 * [Rozmówki 3](</Jaś/Słowa/Rozmówki 3.txt>)
 
-* [topnie pokrewieństwa](</Jaś/Słowa/Stopnie pokrewieństwa.txt>)
+* [Stopnie pokrewieństwa](</Jaś/Słowa/Stopnie pokrewieństwa.txt>)
 
 * [W domu](</Jaś/Słowa/W domu.txt>)
 

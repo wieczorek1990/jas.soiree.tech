@@ -12,7 +12,7 @@ EXTENSION = '.txt'
 
 
 def generate_link(name: str) -> str:
-    human_readable_name = name.rstrip(EXTENSION).lstrip(BASE_DIR)
+    human_readable_name = name.removesuffix(EXTENSION).removeprefix(BASE_DIR)
     return f'[{human_readable_name}](</{name}>)'
 
 
