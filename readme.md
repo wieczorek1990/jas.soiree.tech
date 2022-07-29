@@ -31,6 +31,12 @@ Basic Polish words list.
 
 * [Cambridge/Mieszkanie i dom](</Jaś/Słowa/Cambridge/Mieszkanie i dom.txt>)
 
+* [Cambridge/Podróż i transport](</Jaś/Słowa/Cambridge/Podróż i transport.txt>)
+
+* [Cambridge/Pogoda](</Jaś/Słowa/Cambridge/Pogoda.txt>)
+
+* [Cambridge/Praca](</Jaś/Słowa/Cambridge/Praca.txt>)
+
 * [Cambridge/Rozrywka i media](</Jaś/Słowa/Cambridge/Rozrywka i media.txt>)
 
 * [Cambridge/Sport](</Jaś/Słowa/Cambridge/Sport.txt>)
