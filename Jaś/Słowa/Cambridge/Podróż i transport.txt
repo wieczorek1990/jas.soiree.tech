@@ -70,7 +70,7 @@ kierowca
 prawo jazdy
 opłata
 wolnocłowy
-amabasada
+ambasada
 euro
 kurs wymiany
 budynki
@@ -86,7 +86,7 @@ stacja paliw
 brama
 gość
 przewodnik
-kierwonica
+kierownica
 port
 helikopter
 podróżować autostopem
@@ -95,7 +95,7 @@ imigracja
 odrzutowiec
 podróż
 wylądować
-opóścić
+opuścić
 pozostały
 światło
 ciężarówka
