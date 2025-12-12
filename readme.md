@@ -1,10 +1,25 @@
 Jaś
 ===
 
-Basic Polish words list as well as Cambridge vocabulary list for B1 level ([source](https://www.cambridgeenglish.org/images/506887-b1-preliminary-2020-vocabulary-list.pdf)).
+Simple IT lessons, basic Polish words and some vocabulary for B1 level Cambridge exams.
 
-# Słowa
+## Źródła
+* [Cambridge vocabulary list](https://www.cambridgeenglish.org/images/506887-b1-preliminary-2020-vocabulary-list.pdf)
 
+## Informatyka
+Sezon 1.:
+* [Lekcja 1.](<Jaś/Informatyka/Sezon 1/Lekcja 1.txt>)
+* [Lekcja 2.](<Jaś/Informatyka/Sezon 1/Lekcja 2.txt>)
+* [Lekcja 3.](<Jaś/Informatyka/Sezon 1/Lekcja 3.txt>)
+* [Lekcja 4.](<Jaś/Informatyka/Sezon 1/Lekcja 4.txt>)
+* [Lekcja 5.](<Jaś/Informatyka/Sezon 1/Lekcja 5.txt>)
+* [Lekcja 6.](<Jaś/Informatyka/Sezon 1/Lekcja 6.txt>)
+
+Sezon 2.:
+* [Lekcja 1.](<Jaś/Informatyka/Sezon 2/Lekcja 1.md>)
+* [Lekcja 2.](<Jaś/Informatyka/Sezon 2/Lekcja 2.md>)
+
+## Słowa
 * [Artykuły](</Jaś/Słowa/Artykuły.txt>)
 
 * [Artykuły 2](</Jaś/Słowa/Artykuły 2.txt>)
@@ -19,9 +34,9 @@ Basic Polish words list as well as Cambridge vocabulary list for B1 level ([sour
 
 * [Cambridge/Jedzenie i picie](</Jaś/Słowa/Cambridge/Jedzenie i picie.txt>)
 
-* [Cambridge/Jedzenie, lekarstwa i ćwiczenia](</Jaś/Słowa/Cambridge/Jedzenie, lekarstwa i ćwiczenia.txt>)
+* [Cambridge/Jedzenie, lekarstwa i ćwiczenia](</Jaś/Słowa/Cambridge/Jedzenie, lekarstwa i ćwiczenia.txt>)
 
-* [Cambridge/Język](</Jaś/Słowa/Cambridge/Język.txt>)
+* [Cambridge/Język](</Jaś/Słowa/Cambridge/Język.txt>)
 
 * [Cambridge/Kolory](</Jaś/Słowa/Cambridge/Kolory.txt>)
 
@@ -31,7 +46,7 @@ Basic Polish words list as well as Cambridge vocabulary list for B1 level ([sour
 
 * [Cambridge/Mieszkanie i dom](</Jaś/Słowa/Cambridge/Mieszkanie i dom.txt>)
 
-* [Cambridge/Podróż i transport](</Jaś/Słowa/Cambridge/Podróż i transport.txt>)
+* [Cambridge/Podróż i transport](</Jaś/Słowa/Cambridge/Podróż i transport.txt>)
 
 * [Cambridge/Pogoda](</Jaś/Słowa/Cambridge/Pogoda.txt>)
 
@@ -41,17 +56,17 @@ Basic Polish words list as well as Cambridge vocabulary list for B1 level ([sour
 
 * [Cambridge/Sport](</Jaś/Słowa/Cambridge/Sport.txt>)
 
-* [Cambridge/Środowisko](</Jaś/Słowa/Cambridge/Środowisko.txt>)
+* [Cambridge/Środowisko](</Jaś/Słowa/Cambridge/Środowisko.txt>)
 
-* [Cambridge/Środowisko naturalne](</Jaś/Słowa/Cambridge/Środowisko naturalne.txt>)
+* [Cambridge/Środowisko naturalne](</Jaś/Słowa/Cambridge/Środowisko naturalne.txt>)
 
 * [Cambridge/Ubrania i akcesoria](</Jaś/Słowa/Cambridge/Ubrania i akcesoria.txt>)
 
-* [Cambridge/Uczucia, opinie i doświadczenia](</Jaś/Słowa/Cambridge/Uczucia, opinie i doświadczenia.txt>)
+* [Cambridge/Uczucia, opinie i doświadczenia](</Jaś/Słowa/Cambridge/Uczucia, opinie i doświadczenia.txt>)
 
 * [Cambridge/Usługi](</Jaś/Słowa/Cambridge/Usługi.txt>)
 
-* [Cambridge/Wieś](</Jaś/Słowa/Cambridge/Wieś.txt>)
+* [Cambridge/Wieś](</Jaś/Słowa/Cambridge/Wieś.txt>)
 
 * [Cambridge/Zakupy](</Jaś/Słowa/Cambridge/Zakupy.txt>)
 
@@ -59,9 +74,9 @@ Basic Polish words list as well as Cambridge vocabulary list for B1 level ([sour
 
 * [Liczebniki czasowe](</Jaś/Słowa/Liczebniki czasowe.txt>)
 
-* [Liczebniki główne](</Jaś/Słowa/Liczebniki główne.txt>)
+* [Liczebniki główne](</Jaś/Słowa/Liczebniki główne.txt>)
 
-* [Liczebniki porządkowe](</Jaś/Słowa/Liczebniki porządkowe.txt>)
+* [Liczebniki porządkowe](</Jaś/Słowa/Liczebniki porządkowe.txt>)
 
 * [Przymiotniki](</Jaś/Słowa/Przymiotniki.txt>)
 
@@ -73,13 +88,13 @@ Basic Polish words list as well as Cambridge vocabulary list for B1 level ([sour
 
 * [Pytania pracodawcy](</Jaś/Słowa/Pytania pracodawcy.txt>)
 
-* [Rozmówki](</Jaś/Słowa/Rozmówki.txt>)
+* [Rozmówki](</Jaś/Słowa/Rozmówki.txt>)
 
-* [Rozmówki 2](</Jaś/Słowa/Rozmówki 2.txt>)
+* [Rozmówki 2](</Jaś/Słowa/Rozmówki 2.txt>)
 
-* [Rozmówki 3](</Jaś/Słowa/Rozmówki 3.txt>)
+* [Rozmówki 3](</Jaś/Słowa/Rozmówki 3.txt>)
 
-* [Stopnie pokrewieństwa](</Jaś/Słowa/Stopnie pokrewieństwa.txt>)
+* [Stopnie pokrewieństwa](</Jaś/Słowa/Stopnie pokrewieństwa.txt>)
 
 * [W domu](</Jaś/Słowa/W domu.txt>)
 
@@ -91,7 +106,7 @@ Basic Polish words list as well as Cambridge vocabulary list for B1 level ([sour
 
 * [W mieszkaniu](</Jaś/Słowa/W mieszkaniu.txt>)
 
-* [W mieście](</Jaś/Słowa/W mieście.txt>)
+* [W mieście](</Jaś/Słowa/W mieście.txt>)
 
 * [W pracy](</Jaś/Słowa/W pracy.txt>)
 
