@@ -4,24 +4,23 @@ import glob
 
 import natsort
 
-
-TEMPLATE_FILENAME = 'readme-template.md'
-OUT_FILENAME = 'readme.md'
-BASE_DIR = 'Jaś/Słowa/'
-EXTENSION = '.txt'
+TEMPLATE_FILENAME = "readme-template.md"
+OUT_FILENAME = "readme.md"
+BASE_DIR = "Jaś/Słowa/"
+EXTENSION = ".txt"
 
 
 def generate_link(name: str) -> str:
     human_readable_name = name.removesuffix(EXTENSION).removeprefix(BASE_DIR)
-    return f'[{human_readable_name}](</{name}>)'
+    return f"[{human_readable_name}](</{name}>)"
 
 
 def generate_line(link: str) -> str:
-    return f'* {link}\n'
+    return f"* {link}\n"
 
 
 def scan_names() -> list[str]:
-    return glob.glob(f'{BASE_DIR}**/*{EXTENSION}', recursive=True)
+    return glob.glob(f"{BASE_DIR}**/*{EXTENSION}", recursive=True)
 
 
 def sort_names(names: list[str]) -> list[str]:
@@ -31,23 +30,19 @@ def sort_names(names: list[str]) -> list[str]:
 def generate_links() -> str:
     names = scan_names()
     names = sort_names(names)
-    lines = [
-        generate_line(generate_link(name))
-        for name in names
-    ]
-    return '\n'.join(lines)
+    lines = [generate_line(generate_link(name)) for name in names]
+    return "\n".join(lines)
 
 
 def main() -> None:
     with open(TEMPLATE_FILENAME) as file_:
         template_content = file_.read()
-    with open(OUT_FILENAME, 'w') as file_:
+    with open(OUT_FILENAME, "w") as file_:
         file_.write(template_content)
         links_content = generate_links()
         file_.write(links_content)
-        file_.write('\n')
+        file_.write("\n")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
-
