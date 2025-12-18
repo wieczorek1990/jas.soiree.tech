@@ -1,25 +1,33 @@
 Jaś
 ===
 
-Simple IT lessons, basic Polish words and some vocabulary for B1 level Cambridge exams.
-
-## Źródła
-* [Cambridge vocabulary list](https://www.cambridgeenglish.org/images/506887-b1-preliminary-2020-vocabulary-list.pdf)
-
-## Informatyka
-Sezon 1.:
-* [Lekcja 1.](<Jaś/Informatyka/Sezon 1/Lekcja 1.txt>)
-* [Lekcja 2.](<Jaś/Informatyka/Sezon 1/Lekcja 2.txt>)
-* [Lekcja 3.](<Jaś/Informatyka/Sezon 1/Lekcja 3.txt>)
-* [Lekcja 4.](<Jaś/Informatyka/Sezon 1/Lekcja 4.txt>)
-* [Lekcja 5.](<Jaś/Informatyka/Sezon 1/Lekcja 5.txt>)
-* [Lekcja 6.](<Jaś/Informatyka/Sezon 1/Lekcja 6.txt>)
-
-Sezon 2.:
-* [Lekcja 1.](<Jaś/Informatyka/Sezon 2/Lekcja 1.md>)
-* [Lekcja 2.](<Jaś/Informatyka/Sezon 2/Lekcja 2.md>)
+Words, math, IT, and some else things.
 
 ## Słowa
+### Podstawy
+* [Filozofia](</Jaś/Słowa/Filozofia.txt>)
+* [Liczebniki czasowe](</Jaś/Słowa/Liczebniki czasowe.txt>)
+* [Liczebniki główne](</Jaś/Słowa/Liczebniki główne.txt>)
+* [Liczebniki porządkowe](</Jaś/Słowa/Liczebniki porządkowe.txt>)
+* [Przymiotniki](</Jaś/Słowa/Przymiotniki.txt>)
+* [Przymiotniki w zdaniach](</Jaś/Słowa/Przymiotniki w zdaniach.txt>)
+* [Przysłowia](</Jaś/Słowa/Przysłowia.txt>)
+* [Przywitania](</Jaś/Słowa/Przywitania.txt>)
+* [Pytania pracodawcy](</Jaś/Słowa/Pytania pracodawcy.txt>)
+* [Rozmówki](</Jaś/Słowa/Rozmówki.txt>)
+* [Rozmówki 2](</Jaś/Słowa/Rozmówki 2.txt>)
+* [Rozmówki 3](</Jaś/Słowa/Rozmówki 3.txt>)
+* [Stopnie pokrewieństwa](</Jaś/Słowa/Stopnie pokrewieństwa.txt>)
+* [W domu](</Jaś/Słowa/W domu.txt>)
+* [W domu 2](</Jaś/Słowa/W domu 2.txt>)
+* [W kuchni](</Jaś/Słowa/W kuchni.txt>)
+* [W kuchni 2](</Jaś/Słowa/W kuchni 2.txt>)
+* [W mieszkaniu](</Jaś/Słowa/W mieszkaniu.txt>)
+* [W mieście](</Jaś/Słowa/W mieście.txt>)
+* [W pracy](</Jaś/Słowa/W pracy.txt>)
+* [W pracy po rekrutacji](</Jaś/Słowa/W pracy po rekrutacji.txt>)
+* [W sklepie](</Jaś/Słowa/W sklepie.txt>)
+
 ### Artykuły
 * [Artykuły](</Jaś/Słowa/Artykuły.txt>)
 * [Artykuły 2](</Jaś/Słowa/Artykuły 2.txt>)
@@ -48,25 +56,37 @@ Sezon 2.:
 * [Cambridge/Usługi](</Jaś/Słowa/Cambridge/Usługi.txt>)
 * [Cambridge/Wieś](</Jaś/Słowa/Cambridge/Wieś.txt>)
 * [Cambridge/Zakupy](</Jaś/Słowa/Cambridge/Zakupy.txt>)
-* [Filozofia](</Jaś/Słowa/Filozofia.txt>)
-* [Liczebniki czasowe](</Jaś/Słowa/Liczebniki czasowe.txt>)
-* [Liczebniki główne](</Jaś/Słowa/Liczebniki główne.txt>)
-* [Liczebniki porządkowe](</Jaś/Słowa/Liczebniki porządkowe.txt>)
-* [Przymiotniki](</Jaś/Słowa/Przymiotniki.txt>)
-* [Przymiotniki w zdaniach](</Jaś/Słowa/Przymiotniki w zdaniach.txt>)
-* [Przysłowia](</Jaś/Słowa/Przysłowia.txt>)
-* [Przywitania](</Jaś/Słowa/Przywitania.txt>)
-* [Pytania pracodawcy](</Jaś/Słowa/Pytania pracodawcy.txt>)
-* [Rozmówki](</Jaś/Słowa/Rozmówki.txt>)
-* [Rozmówki 2](</Jaś/Słowa/Rozmówki 2.txt>)
-* [Rozmówki 3](</Jaś/Słowa/Rozmówki 3.txt>)
-* [Stopnie pokrewieństwa](</Jaś/Słowa/Stopnie pokrewieństwa.txt>)
-* [W domu](</Jaś/Słowa/W domu.txt>)
-* [W domu 2](</Jaś/Słowa/W domu 2.txt>)
-* [W kuchni](</Jaś/Słowa/W kuchni.txt>)
-* [W kuchni 2](</Jaś/Słowa/W kuchni 2.txt>)
-* [W mieszkaniu](</Jaś/Słowa/W mieszkaniu.txt>)
-* [W mieście](</Jaś/Słowa/W mieście.txt>)
-* [W pracy](</Jaś/Słowa/W pracy.txt>)
-* [W pracy po rekrutacji](</Jaś/Słowa/W pracy po rekrutacji.txt>)
-* [W sklepie](</Jaś/Słowa/W sklepie.txt>)
+
+## Matematyka
+* [Introdukcja](<Jaś/Matematyka/Introdukcja.txt>)
+* [Lekcja 1.](<Jaś/Matematyka/Lekcja 1.txt>)
+* [Lekcja 2.](<Jaś/Matematyka/Lekcja 2.txt>)
+* [Lekcja 3.](<Jaś/Matematyka/Lekcja 3.txt>)
+* [Lekcja 4.](<Jaś/Matematyka/Lekcja 4.txt>)
+* [Lekcja 5.](<Jaś/Matematyka/Lekcja 5.txt>)
+* [Lekcja 6.](<Jaś/Matematyka/Lekcja 6.txt>)
+* [Lekcja 7.](<Jaś/Matematyka/Lekcja 7.txt>)
+* [Lekcja 8.](<Jaś/Matematyka/Lekcja 8.txt>)
+
+## Informatyka
+Sezon 1.:
+* [Lekcja 1.](<Jaś/Informatyka/Sezon 1/Lekcja 1.txt>)
+* [Lekcja 2.](<Jaś/Informatyka/Sezon 1/Lekcja 2.txt>)
+* [Lekcja 3.](<Jaś/Informatyka/Sezon 1/Lekcja 3.txt>)
+* [Lekcja 4.](<Jaś/Informatyka/Sezon 1/Lekcja 4.txt>)
+* [Lekcja 5.](<Jaś/Informatyka/Sezon 1/Lekcja 5.txt>)
+* [Lekcja 6.](<Jaś/Informatyka/Sezon 1/Lekcja 6.txt>)
+
+Sezon 2.:
+* [Lekcja 1.](<Jaś/Informatyka/Sezon 2/Lekcja 1.md>)
+* [Lekcja 2.](<Jaś/Informatyka/Sezon 2/Lekcja 2.md>)
+* [Lekcja 3.](<Jaś/Informatyka/Sezon 2/Lekcja 3.md>)
+
+## Muzyka
+* [Lekcja 1.](<Jaś/Muzyka/Lekcja 1.txt>)
+
+## Religia
+* [Dekalog](<Jaś/Religia/Dekalog.txt>)
+
+## Źródła
+* [Cambridge vocabulary list](https://www.cambridgeenglish.org/images/506887-b1-preliminary-2020-vocabulary-list.pdf)
