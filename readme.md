@@ -20,9 +20,11 @@ Sezon 2.:
 * [Lekcja 2.](<Jaś/Informatyka/Sezon 2/Lekcja 2.md>)
 
 ## Słowa
+### Artykuły
 * [Artykuły](</Jaś/Słowa/Artykuły.txt>)
 * [Artykuły 2](</Jaś/Słowa/Artykuły 2.txt>)
 
+### Cambridge
 * [Cambridge/Budynki](</Jaś/Słowa/Cambridge/Budynki.txt>)
 * [Cambridge/Czas](</Jaś/Słowa/Cambridge/Czas.txt>)
 * [Cambridge/Edukacja](</Jaś/Słowa/Cambridge/Edukacja.txt>)
