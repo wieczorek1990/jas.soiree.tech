@@ -1,4 +1,20 @@
 #!/usr/bin/python3
 # Generates index for Jaś.
+import glob
+import os
 
-print("It works!")
+
+def traverse_till_leaves(something, level):
+	if os.path.isfile(something):
+		print(f"* [{something}](<{something}>)")
+	elif os.path.isdir(something):
+		next_level = level + 1
+		print("#" * next_level + f" {something}")
+		for something in glob.glob(f"{something}/*"):
+			traverse_till_leaves(something, next_level)
+
+
+print("# Jaś")
+print("Words, math, IT, and some else things.")
+for something in glob.glob("Jaś/**", recursive=True):
+	traverse_till_leaves(something, level=1)
