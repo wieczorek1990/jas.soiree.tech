@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+# Generates index for Jaś.
+
+print("It works!")
