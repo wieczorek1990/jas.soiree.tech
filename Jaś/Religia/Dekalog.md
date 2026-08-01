@@ -10,3 +10,4 @@ Jam jest Pan, Bóg twój, który cię wywiódł z ziemi egipskiej, z domu niewol
 8. Nie mów fałszywego świadectwa przeciw bliźniemu swemu.
 9. Nie pożądaj żony bliźniego swego.
 10. Ani żadnej rzeczy, która jego jest.
+11. Nie kłam.
