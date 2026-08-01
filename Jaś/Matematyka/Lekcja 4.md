@@ -1,5 +1,5 @@
 Zadanie 1.
-Jeżeli Mishi da Shimiemu połowę jabłek ze zbioru i jest ich 32. To ile jabłek było zebranych?
+Jeżeli Mishi da Shimiemu połowę jabłek ze zbioru i jest ich 32. To ile jabłek było zebranych?
 Odpowiedź: 64
 
 Zadanie 2.

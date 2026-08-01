@@ -1,7 +1,7 @@
-Dzisiaj sprawdzimy do czego mogą się nam przydać podstawowe operacje matematyczne.
+Dzisiaj sprawdzimy do czego mogą się nam przydać podstawowe operacje matematyczne.
 
 Zadanie 1.
-Do Poznania z Pniew jedzie się 1 godzinę, droga do pokonania to 50 km. Ile zapłaci tata za dojazd do Poznania i drogę powrotną jeśli zdecyduje się na podróż samochodem spalającym 6 litrów paliwa na 100 km, jeśli paliwo kosztuje 5 złotych za litr.
+Do Poznania z Pniew jedzie się 1 godzinę, droga do pokonania to 50 km. Ile zapłaci tata za dojazd do Poznania i drogę powrotną jeśli zdecyduje się na podróż samochodem spalającym 6 litrów paliwa na 100 km, jeśli paliwo kosztuje 5 złotych za litr.
 Odpowiedź: 30 złotych
 
 Zadanie 2.

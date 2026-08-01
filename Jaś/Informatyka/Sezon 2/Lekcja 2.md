@@ -15,7 +15,7 @@ Ile jest przestrzeni sadu na tej działce? Ile drzew można zasadzić?
 
 Zadanie 4.
 
-Fibonaci ma nowy pomysł. Chce obliczać następującą liczbę:
+Fibonaci ma nowy pomysł. Chce obliczać następującą liczbę:
 fib(n) = fib(n - 1) - fib(n - 2) + fib (n - 3)
 fib(0) = 1
 fib(1) = 2
@@ -38,11 +38,11 @@ Ile jabłek zbiorą oni wszyscy w 6 godzin?
 Zadanie 7.
 
 Mishi chciałby obliczać prostokątne rozmiary sadu.
-Napisz funkcję `rectangle`, która przyjmie rozmiar `a` i `b` i zwróci prostokątny rozmiar sadu.
+Napisz funkcję `rectangle`, która przyjmie rozmiar `a` i `b` i zwróci prostokątny rozmiar sadu.
 
 Zadanie 8.
 
-Mishi chciałby zadeklarować sad z drzewami po komputerowemu.
+Mishi chciałby zadeklarować sad z drzewami po komputerowemu.
 Napisz klasy `Tree` i `Garden`.
 Zadelkaruj drzewa w sadzie używając typowania i argumentu domyslnego pustej tablicy.
 Przekaż drzewa do inicjalizatora klasy sadu.

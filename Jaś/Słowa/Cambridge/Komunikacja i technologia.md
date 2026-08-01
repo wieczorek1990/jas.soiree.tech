@@ -9,7 +9,7 @@ przesłać pocztą
 kalkulator
 zadzwonić
 oddzwonić
-odtwarzacz płyt kompaktowych (CD)
+odtwarzacz płyt kompaktowych (CD)
 czat
 pokój na czacie
 kliknąć
@@ -17,7 +17,7 @@ komputer
 połączyć
 połączenie
 usunąć
-wykręcić numer
+wykręcić numer
 cyfrowy
 aparat cyfrowy
 dysk

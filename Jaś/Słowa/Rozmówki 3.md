@@ -2,7 +2,7 @@ ROZMÓWKI 3
 
 imię
 nazwisko
-nazywać się
+nazywać się
 czat
 anonimowy
 publiczny
@@ -26,10 +26,10 @@ notebook
 netbook
 telefon
 smartfon
-A. Nie loguje się w kawiarenkach internetowych.
+A. Nie loguje się w kawiarenkach internetowych.
 B. Czemu?
 A. Bo mają konto roota!
 B. Ale co to zmienia?
-A. Mogą skopiować Twoje pliki przeglądarki!
+A. Mogą skopiować Twoje pliki przeglądarki!
 B. To jak się bronić?
 A.. Korzystaj z konta gościa!

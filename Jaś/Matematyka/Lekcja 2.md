@@ -25,7 +25,7 @@ Kim jest Mishi?
 MIshi to dobry Mijah, który posiada dostęp do jedzenia.
 
 Kim jest Shimi?
-Shimi to biedny Mijah, który zaopatruje się w żywność u Mishiego.
+Shimi to biedny Mijah, który zaopatruje się w żywność u Mishiego.
 
 Zadanie 1.
 Mishi ma 4 jabłka. Ile jabłek zje Mishi jeśli odda jedno jabłko Shimiemu?
@@ -34,7 +34,7 @@ Odpowiedź 1.: 3 jabłka
 Odpowiedź 2.: 4 / 3  = 1,(3)
 
 Zadanie 2.
-Mishi ma 10 jabłek i 3 dzieci. Ile Mishi zje jabłek z dziećmi jeśli dziś je bez Shimiego?
+Mishi ma 10 jabłek i 3 dzieci. Ile Mishi zje jabłek z dziećmi jeśli dziś je bez Shimiego?
 Odpowiedź: 2,5 jabłek
 
 Zadanie 3*:

@@ -42,7 +42,7 @@ walizka
 złapać
 zmienić
 czarter
-zameldować się
+zameldować się
 stanowisko odprawy
 wymeldować się
 trener
@@ -65,7 +65,7 @@ dokument
 dokumenty
 dolar
 pokój dwuosobowy
-jechać samochodem
+jechać samochodem
 kierowca
 prawo jazdy
 opłata
@@ -89,7 +89,7 @@ przewodnik
 kierownica
 port
 helikopter
-podróżować autostopem
+podróżować autostopem
 hotel
 imigracja
 odrzutowiec
@@ -106,7 +106,7 @@ lustro
 nie trafić do
 motocykl
 autostrada
-poruszać się
+poruszać się
 narodowość
 na pokładzie
 w interesach

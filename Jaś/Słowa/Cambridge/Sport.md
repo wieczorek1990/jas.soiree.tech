@@ -32,7 +32,7 @@ jazda na rowerze
 rowerzysta
 taniec
 nurkowanie
-zapisać się do zawodów
+zapisać się do zawodów
 sporty ekstremalne
 obiekt sportowy
 łowienie ryb
@@ -55,7 +55,7 @@ hokej na lodzie
 łyżwiartswo
 intruktor
 bieganie
-dołączyć się
+dołączyć się
 kopnąć
 liga
 szafka
@@ -111,7 +111,7 @@ pływanie
 strój pływacki
 basen
 tenis stołowy
-brać udział
+brać udział
 zespół
 tenis
 tenisista

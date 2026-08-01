@@ -17,7 +17,7 @@ Liczby:
 Dodawanie:
 
 0 + 0 = 0
-Czytamy: zero plus zero równa się zero.
+Czytamy: zero plus zero równa się zero.
 1 + 0 = 1
 0 + 1 = 1
 
@@ -43,8 +43,7 @@ Czytamy: jeden razy dwa równa się dwa.
 Dzielenie:
 
 1 / 1 = 1
-Czytamy: jeden podzielić na jeden równa się jeden.
+Czytamy: jeden podzielić na jeden równa się jeden.
 2 / 1 = 2
 4 / 2 = 2
 6 / 3 = 2
-

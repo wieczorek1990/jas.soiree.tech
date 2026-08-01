@@ -1,6 +1,6 @@
 W MIEŚCIE
 
-Jak dojść do ... ?
+Jak dojść do ... ?
 Jak trafić do ... ?
 urząd miasta
 teatr
@@ -38,6 +38,6 @@ budynek
 mieszkanie
 Iść prosto/w lewo/w prawo.
 Iść ulicą ...(Dworcową) .
-Iść przez plac.
-Skręcić w lewo/prawo.
+Iść przez plac.
+Skręcić w lewo/prawo.
 Zawrócić.

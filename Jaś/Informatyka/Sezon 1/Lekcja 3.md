@@ -34,9 +34,9 @@ Spowoduje to wklejenie zmiennych do paska znaków.
 
 Na początku przykładu definiujemy metodę `sum_of_two` i wywołujemy ją na argumentach 1 i 2, co daje wynik 3. Następnie definiujemy dekorator debugger, który przyjmuje funkcję dekorowaną `f` i zwraca funkcję otaczającą `wrapper`. Funkcja `wrapper` przyjmuje te same parametry co funkcja dekorowana `sum_of_two` i dodaje drukowanie wiadomości o parametrach funkcji.
 
-Jako, że chcemy mieć na konsoli informacje o dodawanych liczbach, a nie tylko o wyniku dekorujemy funkcję `sum_of_two` poprzez użycie `@debugger` przed jej powtórną definicją w konsoli. Ponowne wywołanie wywołuje kod funkcji `wrapper`. Funkcja jest już udekorowana.
+Jako, że chcemy mieć na konsoli informacje o dodawanych liczbach, a nie tylko o wyniku dekorujemy funkcję `sum_of_two` poprzez użycie `@debugger` przed jej powtórną definicją w konsoli. Ponowne wywołanie wywołuje kod funkcji `wrapper`. Funkcja jest już udekorowana.
 
-W nowoczesnym Pythonie można także dekorować klasy. Przydatny dekorator klas to `dataclass`. Gdy potrzebujemy klasę przechowującą głównie dane możemy ją zdefiniować poprzez dekorowanie z użyciem `dataclass` i podaniem pól i ich typów oraz wartości domyślnych.
+W nowoczesnym Pythonie można także dekorować klasy. Przydatny dekorator klas to `dataclass`. Gdy potrzebujemy klasę przechowującą głównie dane możemy ją zdefiniować poprzez dekorowanie z użyciem `dataclass` i podaniem pól i ich typów oraz wartości domyślnych.
 
 ```
 >>> from dataclasses import dataclass

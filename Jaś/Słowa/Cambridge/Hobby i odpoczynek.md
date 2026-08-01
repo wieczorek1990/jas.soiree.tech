@@ -24,10 +24,10 @@ wiatrak
 festiwal
 fikcja
 galeria
-wyjść na zewnątrz/na miasto
+wyjść na zewnątrz/na miasto
 iść na zakupy
 gitara
-spędzać wolny czas
+spędzać wolny czas
 zatrudnić
 wycieczka
 hobby
@@ -35,8 +35,8 @@ wakacje
 łyżwy
 bieganie
 przyłączyć się
-znać się na
-być fit
+znać się na
+być fit
 magazyn
 członkowstwo
 modelować

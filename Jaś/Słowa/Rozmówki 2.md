@@ -3,17 +3,17 @@ ROZMÓWKI 2
 Co u Ciebie słychać?
 U mnie dobrze, a u Ciebie?
 Jak Twoje zdrowie?
-Czuję się dobrze.
+Czuję się dobrze.
 Jak się czujesz?
-Dobrze się czuję.
+Dobrze się czuję.
 Jak Twoje samopoczucie?
 Dobre.
-Jak ma się mąż?
+Jak ma się mąż?
 Dobrze.
-Jak mają się Twoje dzieci?
+Jak mają się Twoje dzieci?
 Dobrze.
 W czym możemy Ci pomóc?
-Możesz mi pomóc nieść tę torbę.
+Możesz mi pomóc nieść tę torbę.
 Czy u Pana/Pani wszystko w porządku?
 Tak, poradzę sobie.
 Może Panu/Pani pomóc?

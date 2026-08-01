@@ -12,7 +12,7 @@ tabliczka
 książka
 półka na książki
 przerwa
-skończyć naukę
+skończyć naukę
 certyfikat
 chemia
 klasa

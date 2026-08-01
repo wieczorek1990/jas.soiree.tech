@@ -1,9 +1,9 @@
 W KUCHNI
 
-przygotowywać jedzenie
-gotować zupę
-smażyć mięso
-zrobić surówkę
+przygotowywać jedzenie
+gotować zupę
+smażyć mięso
+zrobić surówkę
 łączyć składniki
 mieszać składniki
 podgrzewać jedzenie

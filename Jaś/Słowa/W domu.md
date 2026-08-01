@@ -19,7 +19,7 @@ drugie śniadanie
 obiad
 podwieczorek
 kolacja
-przygotować posiłek
+przygotować posiłek
 zjeść posiłek
 sprzątanie
 wycieranie kurzu
