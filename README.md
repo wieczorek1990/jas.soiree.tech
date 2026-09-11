@@ -1,2 +1,2 @@
 # Jaś
-Words, math, IT, and some else things.
+[Words, math, IT, and some else things.](index.md)

@@ -2,12 +2,11 @@
 # Generates index for Jaś.
 import glob
 import os
-import requests
 
 
 def traverse_till_leaves(something, level):
 	if os.path.isfile(something):
-		url = requests.utils.quote(something)
+		url = something
 		print(f"* [{something}](<{url}>)")
 	elif os.path.isdir(something):
 		next_level = level + 1
