@@ -1,4 +1,4 @@
 #!/bin/sh
 # Generate
 
-./bin/generate-index > index.md
+./bin/generate-index.sh > index.md

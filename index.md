@@ -1,6 +1,6 @@
 # Jaś
 Words, math, IT, and some else things.
-## Jaś/
+## Jaś
 ### Jaś/Muzyka
 * [Jaś/Muzyka/Lekcja 1.md](<Jaś/Muzyka/Lekcja 1.md>)
 ### Jaś/Religia
