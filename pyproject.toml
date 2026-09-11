@@ -1,16 +1,14 @@
 [project]
 name = "jas-soiree-tech"
-version = "0.1.0"
+version = "0.2.0"
 description = "School."
 authors = [
     {name = "Łukasz Wieczorek",email = "luke@soiree.tech"}
 ]
 license = "MIT"
 readme = "README.md"
-requires-python = ">=3.14"
-dependencies = [
-    "requests (>=2.34.2,<3.0.0)"
-]
+requires-python = ">=3.16"
+dependencies = []
 
 [tool.poetry]
 packages = [{include = "jas"}]
