@@ -1,4 +1,4 @@
-# Programy tekstowe
+# Lekcja 3.: programy tekstowe
 
 Listowanie argumentów:
 

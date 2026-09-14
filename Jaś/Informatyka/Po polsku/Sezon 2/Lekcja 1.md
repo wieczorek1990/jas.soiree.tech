@@ -1,4 +1,4 @@
-# Git, Python, Docker
+# Lekcja 1.: Git, Python, Docker
 
 ## Git
 Source Code Management (SCM): zarządzanie kodem źródłowym.

@@ -1,3 +1,5 @@
+# Lekcja 4.
+
 ASCII (American Standard Code for Information Interchange) to standard kodowania znaków. Przypisuje on znaczenia kodom z zakresu 0 - 127, czyli jest 7-bitowy.
 
 Poniżej ważne liczby dla standardu.

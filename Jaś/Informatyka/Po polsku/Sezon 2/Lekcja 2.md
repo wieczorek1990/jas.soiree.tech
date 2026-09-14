@@ -1,3 +1,5 @@
+# Lekcja 2.
+
 Zadanie 1.
 
 Mishi ma prostokąt 1024 na 24 matrycy jabłek sadu, ile to drzew?

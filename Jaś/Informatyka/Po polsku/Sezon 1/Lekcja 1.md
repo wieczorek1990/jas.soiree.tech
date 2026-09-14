@@ -1,3 +1,5 @@
+# Lekcja 1.
+
 Język Python to język programowania wysokiego poziomu, który upraszcza pisanie programów skryptowych, powstał w latach dziewięćdziesiątych dwudziestego wieku i jest dalej rozwijany (rok 2022).
 
 Nauczymy się używać podstawowych konstruktów języka.

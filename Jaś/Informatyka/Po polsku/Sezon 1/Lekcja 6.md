@@ -1,3 +1,5 @@
+# Lekcja 6.
+
 Zadanie 1.
 
 Mishi ma problem w liczeniu jabłek, bo Zimi się skaleczył.

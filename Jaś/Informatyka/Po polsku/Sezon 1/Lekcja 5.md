@@ -1,3 +1,5 @@
+# Lekcja 5.
+
 Git to otwarto-źródłowy program do kontroli wersji. Używany głównie w konstrukcji oprogramowania.
 
 Na początek powinniśmy ściągnąć oficjalną wersję programu `git`.

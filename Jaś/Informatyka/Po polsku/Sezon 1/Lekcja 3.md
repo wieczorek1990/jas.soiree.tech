@@ -1,3 +1,5 @@
+# Lekcja 3.
+
 W tej lekcji zajmiemy się klasami danych.
 
 Klasy danych to udekorowane klasy, które przechowują dane.
