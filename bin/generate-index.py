@@ -19,7 +19,7 @@ def main() -> None:
     print("# Jaś")
     print("Words, math, IT, and some else things.")
 
-    for something in sorted(glob.glob("Jaś/**", recursive=True)):
+    for something in sorted(glob.glob("Jaś/*", recursive=True)):
         traverse_till_leaves(something, level=1)
 
 
