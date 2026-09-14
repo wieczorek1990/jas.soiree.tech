@@ -1,6 +1,6 @@
 # Jaś
 Words, math, IT, and some else things.
-## Jaś
+## Jaś/
 ### Jaś/Informatyka
 #### Jaś/Informatyka/In English
 ##### Jaś/Informatyka/In English/Season 3

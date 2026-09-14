@@ -1,4 +1,5 @@
 #!/bin/sh
 # Generate.
+set -e
 
-./bin/generate-index.sh > index.md
+./bin/generate-index.py > index.md
