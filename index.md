@@ -2,17 +2,21 @@
 Words, math, IT, and some else things.
 ## Jaś
 ### Jaś/Informatyka
-#### Jaś/Informatyka/Sezon 1
-* [Jaś/Informatyka/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Sezon 1/Lekcja 1.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Sezon 1/Lekcja 2.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Sezon 1/Lekcja 3.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Sezon 1/Lekcja 4.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Sezon 1/Lekcja 5.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Sezon 1/Lekcja 6.md>)
-#### Jaś/Informatyka/Sezon 2
-* [Jaś/Informatyka/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Sezon 2/Lekcja 1.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Sezon 2/Lekcja 2.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Sezon 2/Lekcja 3.md>)
+#### Jaś/Informatyka/In English
+##### Jaś/Informatyka/In English/Season 3
+* [Jaś/Informatyka/In English/Season 3/Lecture 1.md](<Jaś/Informatyka/In English/Season 3/Lecture 1.md>)
+#### Jaś/Informatyka/Po polsku
+##### Jaś/Informatyka/Po polsku/Sezon 1
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md>)
+##### Jaś/Informatyka/Po polsku/Sezon 2
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md>)
 ### Jaś/Matematyka
 * [Jaś/Matematyka/Introdukcja.md](<Jaś/Matematyka/Introdukcja.md>)
 * [Jaś/Matematyka/Lekcja 1.md](<Jaś/Matematyka/Lekcja 1.md>)
@@ -78,37 +82,59 @@ Words, math, IT, and some else things.
 * [Jaś/Słowa/W pracy.md](<Jaś/Słowa/W pracy.md>)
 * [Jaś/Słowa/W sklepie.md](<Jaś/Słowa/W sklepie.md>)
 ## Jaś/Informatyka
-### Jaś/Informatyka/Sezon 1
-* [Jaś/Informatyka/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Sezon 1/Lekcja 1.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Sezon 1/Lekcja 2.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Sezon 1/Lekcja 3.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Sezon 1/Lekcja 4.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Sezon 1/Lekcja 5.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Sezon 1/Lekcja 6.md>)
-### Jaś/Informatyka/Sezon 2
-* [Jaś/Informatyka/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Sezon 2/Lekcja 1.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Sezon 2/Lekcja 2.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Sezon 2/Lekcja 3.md>)
-## Jaś/Informatyka/Sezon 1
-* [Jaś/Informatyka/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Sezon 1/Lekcja 1.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Sezon 1/Lekcja 2.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Sezon 1/Lekcja 3.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Sezon 1/Lekcja 4.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Sezon 1/Lekcja 5.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Sezon 1/Lekcja 6.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Sezon 1/Lekcja 1.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Sezon 1/Lekcja 2.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Sezon 1/Lekcja 3.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Sezon 1/Lekcja 4.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Sezon 1/Lekcja 5.md>)
-* [Jaś/Informatyka/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Sezon 1/Lekcja 6.md>)
-## Jaś/Informatyka/Sezon 2
-* [Jaś/Informatyka/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Sezon 2/Lekcja 1.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Sezon 2/Lekcja 2.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Sezon 2/Lekcja 3.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Sezon 2/Lekcja 1.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Sezon 2/Lekcja 2.md>)
-* [Jaś/Informatyka/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Sezon 2/Lekcja 3.md>)
+### Jaś/Informatyka/In English
+#### Jaś/Informatyka/In English/Season 3
+* [Jaś/Informatyka/In English/Season 3/Lecture 1.md](<Jaś/Informatyka/In English/Season 3/Lecture 1.md>)
+### Jaś/Informatyka/Po polsku
+#### Jaś/Informatyka/Po polsku/Sezon 1
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md>)
+#### Jaś/Informatyka/Po polsku/Sezon 2
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md>)
+## Jaś/Informatyka/In English
+### Jaś/Informatyka/In English/Season 3
+* [Jaś/Informatyka/In English/Season 3/Lecture 1.md](<Jaś/Informatyka/In English/Season 3/Lecture 1.md>)
+## Jaś/Informatyka/In English/Season 3
+* [Jaś/Informatyka/In English/Season 3/Lecture 1.md](<Jaś/Informatyka/In English/Season 3/Lecture 1.md>)
+* [Jaś/Informatyka/In English/Season 3/Lecture 1.md](<Jaś/Informatyka/In English/Season 3/Lecture 1.md>)
+## Jaś/Informatyka/Po polsku
+### Jaś/Informatyka/Po polsku/Sezon 1
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md>)
+### Jaś/Informatyka/Po polsku/Sezon 2
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md>)
+## Jaś/Informatyka/Po polsku/Sezon 1
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 3.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 4.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 5.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md](<Jaś/Informatyka/Po polsku/Sezon 1/Lekcja 6.md>)
+## Jaś/Informatyka/Po polsku/Sezon 2
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 1.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 2.md>)
+* [Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md](<Jaś/Informatyka/Po polsku/Sezon 2/Lekcja 3.md>)
 ## Jaś/Matematyka
 * [Jaś/Matematyka/Introdukcja.md](<Jaś/Matematyka/Introdukcja.md>)
 * [Jaś/Matematyka/Lekcja 1.md](<Jaś/Matematyka/Lekcja 1.md>)
