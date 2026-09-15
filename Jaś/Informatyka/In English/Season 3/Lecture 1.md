@@ -23,6 +23,7 @@ The most first things you should know about are:
 * which
 * env
 * echo
+* hash
 
 ### whoami
 Prints the username of the currently logged in user.
@@ -56,6 +57,9 @@ Prints the environment variables.
 
 ### echo
 Prints a message to the standard output.
+
+### hash
+Exits successfully if the command is runable on the `PATH` directories.
 
 ## Other programs are:
 * cat
